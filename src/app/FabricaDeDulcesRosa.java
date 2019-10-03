@@ -7,6 +7,7 @@ public class FabricaDeDulcesRosa{
 
     List<Repartidor> repartidores = new ArrayList<>();
     List<Sucursal> sucursales = new ArrayList<>();
+    List<Ingrediente> inventario = new ArrayList<>();
     
 
 }
